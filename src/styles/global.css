@@ -1,0 +1,23 @@
+:root{
+  --bg:#0b1020;
+  --panel:#11182b;
+  --panel-2:#161f35;
+  --text:#e8eefc;
+  --text-2:#9aa8c7;
+  --line:#1f2a44;
+  --primary:#3b82f6;
+  --green:#22c55e;
+  --gray:#94a3b8;
+  --red:#ef4444;
+  --yellow:#f59e0b;
+  --card-shadow:0 14px 30px rgba(6,11,25,.22);
+}
+
+*{box-sizing:border-box}
+html,body,#app{margin:0;padding:0;height:100%;}
+body{
+  font-family:"Microsoft YaHei","PingFang SC",Arial,sans-serif;
+  background:linear-gradient(180deg,#09111f 0%,#0c1325 100%);
+  color:var(--text);
+}
+button,input{font-family:inherit}
