@@ -1,24 +1,14 @@
-# Smart Weaving MES V2.0
+Smart Weaving MES V6.0
 
-更专业的织布生产管理系统 UI 演示版。
+新增：
+- 240台织布机驾驶舱
+- 梭机120、大喷80、小喷40分组
+- 业务员订单管理
+- 常规备货任务管理
+- 工人生产任务选择
+- 生产记录
+- 业务员产量统计
 
-## 主要特性
-- 专业深色工业风后台界面
-- 左侧导航栏
-- 100台织布机位实时状态看板
-- 生产中动态旋转图标
-- 空闲灰色图标
-- 维修红色动态图标
-- 最近七日产量柱状图（ECharts）
-- 搜索机位 + 状态筛选
-
-## 本地运行
-```bash
+部署：
 npm install
 npm run dev
-```
-
-## Vercel 部署
-- Framework Preset: Vite
-- Build Command: npm run build
-- Output Directory: dist
