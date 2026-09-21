@@ -1,11 +1,8 @@
+
 {
-  "name":"smart-weaving-mes-v10.1.3",
-  "version":"10.1.3",
-  "type":"module",
-  "scripts":{"dev":"vite","build":"vite build"},
-  "dependencies":{
-    "vue":"^3.4.0",
-    "vite":"^5.0.0",
-    "@vitejs/plugin-vue":"^5.0.0"
-  }
+"name":"smart-weaving-mes-v10.1.3-full-ui-restored",
+"version":"10.1.3",
+"type":"module",
+"scripts":{"dev":"vite","build":"vite build"},
+"dependencies":{"vue":"^3.4.0","vite":"^5.0.0","@vitejs/plugin-vue":"^5.0.0"}
 }
