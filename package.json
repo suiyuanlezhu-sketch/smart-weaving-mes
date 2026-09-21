@@ -1,6 +1,6 @@
 {
-  "name":"smart-weaving-mes-v6-full",
-  "version":"6.0.0",
+  "name":"smart-weaving-mes-v9.3-production-monitor",
+  "version":"9.3.0",
   "type":"module",
   "scripts":{"dev":"vite","build":"vite build"},
   "dependencies":{
